@@ -531,7 +531,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                         </div>
                         <div className="w-full mb-8">
                             <object
-                                data="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet%20/user-journey.svg"
+                                data="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /user-journey.webp"
                                 type="image/svg+xml"
                                 className="w-full h-auto rounded-2xl"
                                 aria-label="User Journey"
@@ -627,7 +627,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                         </div>
                         <div className="flex justify-center">
                             <object
-                                data="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet%20/sketch.svg"
+                                data="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /sketch.webp"
                                 type="image/svg+xml"
                                 className="w-full h-[600px] rounded-2xl"
                                 aria-label="Sketches"
