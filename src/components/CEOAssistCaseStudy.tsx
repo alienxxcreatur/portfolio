@@ -46,13 +46,13 @@ export function CEOAssistCaseStudy({ onBack }: CEOAssistCaseStudyProps) {
 
     // آدرس تصاویر برای هر بخش
     const landingImages = [
-        "/assets/images/casestudy/ceoassist/landing/Blue(Chatbot).webp",
-        "/assets/images/casestudy/ceoassist/landing/About Us.webp",
-        "/assets/images/casestudy/ceoassist/landing/Blog.webp",
-        "/assets/images/casestudy/ceoassist/landing/Blog Details.webp",
-        "/assets/images/casestudy/ceoassist/landing/Contact US.webp",
-        "/assets/images/casestudy/ceoassist/landing/Get Pwa.png",
-        "/assets/images/casestudy/ceoassist/landing/emptt.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/landing/Blue(Chatbot).webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/landing/About Us.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/landing/Blog.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/landing/Blog Details.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/landing/Contact US.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/landing/Get Pwa.png",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/landing/emptt.webp",
     ];
 
     // Handle image click to open modal and set the current image
@@ -127,7 +127,7 @@ export function CEOAssistCaseStudy({ onBack }: CEOAssistCaseStudyProps) {
                 <div className="relative h-[380px] flex items-center justify-center p-12 pt-24">
                     <div className="relative max-w-4xl w-full">
                         <ImageWithFallback
-                            src="../../assets/images/casestudy/ceoassist/ceoassist_header.svg"
+                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/ceoassist_header.svg"
                             alt="CEO Assist"
                             className="w-full h-auto rounded-2xl"
                         />
@@ -736,7 +736,7 @@ export function CEOAssistCaseStudy({ onBack }: CEOAssistCaseStudyProps) {
                         {["blue", "orange"].map((num) => (
                             <div key={num} className="overflow-hidden">
                                 <ImageWithFallback
-                                    src={`/assets/images/casestudy/ceoassist/${num}.webp`}
+                                    src={`https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ceoassist/${num}.webp`}
                                     alt={`تصویر ${num}`}
                                     className="w-full h-auto object-contain"
                                 />

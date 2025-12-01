@@ -42,7 +42,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                 <div className="relative h-[500px] flex items-center justify-center p-12 pt-24">
                     <div className="relative max-w-4xl w-full">
                         <ImageWithFallback
-                            src="../../assets/images/casestudy/barpardaz/barpardaz_header.webp"
+                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/barpardaz_header.webp"
                             alt="بارپرداز"
                             className="w-full h-auto rounded-2xl "
                         />
@@ -417,7 +417,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative  items-center justify-center">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/old/Paymentbarcode.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main//assets/images/casestudy/barpardaz/installment/old/Paymentbarcode.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -428,7 +428,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative  items-center justify-center">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/old/Purchase.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/installment/old/Purchase.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -439,7 +439,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative items-center justify-center">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center mb-8">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/old/succ.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/installment/old/succ.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -457,7 +457,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/new/0.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/installment/new/0.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -479,7 +479,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center ">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/new/3.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/installment/new/3.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -502,7 +502,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/new/3b.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/installment/new/3b.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -539,7 +539,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/new/7.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/installment/new/7.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -562,7 +562,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/new/6.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/installment/new/6.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -584,7 +584,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                 <div className="relative">
                                     <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                         <ImageWithFallback
-                                            src="/assets/images/casestudy/barpardaz/installment/new/8.png"
+                                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/installment/new/8.png"
                                             alt="صفحه انتخاب اعتبار"
                                             className="w-full h-auto object-contain"
                                         />
@@ -709,7 +709,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                         <div className="relative  items-center justify-center">
                             <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                 <ImageWithFallback
-                                    src="/assets/images/casestudy/barpardaz/penalty/old/Mydebts-1.png"
+                                    src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/penalty/old/Mydebts-1.png"
                                     alt="صفحه انتخاب اعتبار"
                                     className="w-full h-auto object-contain"
                                 />
@@ -720,7 +720,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                         <div className="relative  items-center justify-center">
                             <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                 <ImageWithFallback
-                                    src="/assets/images/casestudy/barpardaz/penalty/old/Mydebts-2.png"
+                                    src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/penalty/old/Mydebts-2.png"
                                     alt="صفحه انتخاب اعتبار"
                                     className="w-full h-auto object-contain"
                                 />
@@ -731,7 +731,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                         <div className="relative items-center justify-center">
                             <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center mb-8">
                                 <ImageWithFallback
-                                    src="/assets/images/casestudy/barpardaz/penalty/old/penalty.png"
+                                    src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/penalty/old/penalty.png"
                                     alt="صفحه انتخاب اعتبار"
                                     className="w-full h-auto object-contain"
                                 />
@@ -797,7 +797,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                         <div className="relative">
                             <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                 <ImageWithFallback
-                                    src="/assets/images/casestudy/barpardaz/penalty/new/debts.png"
+                                    src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/penalty/new/debts.png"
                                     alt="صفحه انتخاب اعتبار"
                                     className="w-full h-auto object-contain"
                                 />
@@ -862,7 +862,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                         <div className="relative">
                             <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                 <ImageWithFallback
-                                    src="/assets/images/casestudy/barpardaz/penalty/new/penalties.png"
+                                    src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/penalty/new/penalties.png"
                                     alt="صفحه انتخاب اعتبار"
                                     className="w-full h-auto object-contain"
                                 />
@@ -890,7 +890,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                         <div className="relative">
                             <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                 <ImageWithFallback
-                                    src="/assets/images/casestudy/barpardaz/penalty/new/penalty_thismonth.png"
+                                    src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/penalty/new/penalty_thismonth.png"
                                     alt="صفحه انتخاب اعتبار"
                                     className="w-full h-auto object-contain"
                                 />
@@ -947,7 +947,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                         </h3>
                                         <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                             <ImageWithFallback
-                                                src="/assets/images/casestudy/barpardaz/oldlanding.webp"
+                                                src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/oldlanding.webp"
                                                 alt="صفحه انتخاب اعتبار"
                                                 className="w-full h-auto object-contain"
                                             />

@@ -43,7 +43,7 @@ export function ViseraCaseStudy({ onBack }: ViseraCaseStudyProps) {
                 <div className="relative h-[500px] flex items-center justify-center p-12 pt-24">
                     <div className="relative max-w-2xl w-full">
                         <ImageWithFallback
-                            src="../../assets/images/casestudy/visera/visera-header.svg"
+                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/visera/visera-header.svg"
                             alt="ویزرا"
                             className="w-full h-auto rounded-2xl "
                         />
@@ -53,7 +53,6 @@ export function ViseraCaseStudy({ onBack }: ViseraCaseStudyProps) {
                 {/* Project Overview Box */}
                 <div className="relative -mt-16 px-12 pb-12 z-10">
                     <div className="max-w-5xl mx-auto bg-white rounded-3xl p-8 shadow-2xl">
-                       
                         <div className="text-right">
                             <p className="text-xl text-neutral-700 leading-relaxed mb-4">
                                 <span className="text-[#1F1BF5]">ویسرا</span> یک
@@ -346,7 +345,7 @@ export function ViseraCaseStudy({ onBack }: ViseraCaseStudyProps) {
                         {[1].map((num) => (
                             <div key={num} className="overflow-hidden">
                                 <ImageWithFallback
-                                    src={`/assets/images/casestudy/visera/${num}.png`}
+                                    src={`https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/visera/${num}.png`}
                                     alt={`تصویر ${num}`}
                                     className="w-full h-auto object-contain"
                                 />
@@ -419,7 +418,7 @@ export function ViseraCaseStudy({ onBack }: ViseraCaseStudyProps) {
                         {[2, 3, 4, 5].map((num) => (
                             <div key={num} className="overflow-hidden">
                                 <ImageWithFallback
-                                    src={`/assets/images/casestudy/visera/${num}.png`}
+                                    src={`https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/visera/${num}.png`}
                                     alt={`تصویر ${num}`}
                                     className="w-full h-auto object-contain"
                                 />

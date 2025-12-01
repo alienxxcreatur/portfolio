@@ -105,7 +105,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                     <div className="relative h-[500px] flex items-center justify-center p-12 pt-24">
                         <div className="relative max-w-4xl w-full pt-24">
                             <ImageWithFallback
-                                src="/assets/images/casestudy/wallet /wallet_header.png"
+                                src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /wallet_header.png"
                                 alt="Wallet App"
                                 className="w-full h-auto rounded-2xl"
                             />
@@ -531,7 +531,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                         </div>
                         <div className="w-full mb-8">
                             <object
-                                data="/assets/images/casestudy/wallet /user-journey.svg"
+                                data="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /user-journey.svg"
                                 type="image/svg+xml"
                                 className="w-full h-auto rounded-2xl"
                                 aria-label="User Journey"
@@ -554,7 +554,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                         </div>
                         <div className="w-full">
                             <ImageWithFallback
-                                src="/assets/images/casestudy/wallet /review.png"
+                                src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /review.png"
                                 alt="Users Review"
                                 className="rounded-2xl w-full h-auto"
                             />
@@ -627,7 +627,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                         </div>
                         <div className="flex justify-center">
                             <object
-                                data="/assets/images/casestudy/wallet /sketch.svg"
+                                data="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /sketch.svg"
                                 type="image/svg+xml"
                                 className="w-full h-[600px] rounded-2xl"
                                 aria-label="Sketches"
@@ -656,7 +656,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                                     className="rounded-2xl overflow-hidden flex items-center justify-center bg-neutral-100"
                                 >
                                     <ImageWithFallback
-                                        src={`/assets/images/casestudy/wallet /screens/${
+                                        src={`https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /screens/${
                                             index + 1
                                         }.png`}
                                         alt={`Screen ${index + 1}`}
@@ -691,7 +691,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                     <div className="relative h-[500px] flex items-center justify-center p-12 pt-24 mt-16">
                         <div className="relative max-w-3xl w-full">
                             <ImageWithFallback
-                                src="../../assets/images/casestudy/ibcentra/ibcentra-header.png"
+                                src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ibcentra/ibcentra-header.png"
                                 alt="سامانه مدیریتی کیوسک"
                                 className="w-full h-auto rounded-2xl "
                             />
@@ -1616,7 +1616,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                                 (n) => (
                                     <div key={n} className="w-full">
                                         <ImageWithFallback
-                                            src={`/assets/images/casestudy/ibcentra/text/${n}.webp`}
+                                            src={`https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/ibcentra/text/${n}.webp`}
                                             alt={`IBCentra screen ${n}`}
                                             className="w-full h-auto object-contain rounded-2xl"
                                         />

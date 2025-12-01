@@ -14,41 +14,41 @@ export function RasaCodeCaseStudy({ onBack }: RasaCodeCaseStudyProps) {
 
   // آدرس تصاویر برای هر بخش
   const kioskImages = [
-    '/assets/images/casestudy/rasacode/kiosk/1.webp',
-    '/assets/images/casestudy/rasacode/kiosk/2.webp',
-    '/assets/images/casestudy/rasacode/kiosk/3.webp',
-    '/assets/images/casestudy/rasacode/kiosk/4.webp',
-    '/assets/images/casestudy/rasacode/kiosk/5.webp',
-    '/assets/images/casestudy/rasacode/kiosk/6.webp',
-    '/assets/images/casestudy/rasacode/kiosk/7.webp',
-    '/assets/images/casestudy/rasacode/kiosk/8.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/1.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/2.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/3.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/4.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/5.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/6.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/7.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/8.webp',
   ];
 
   const userImages = [
-    '/assets/images/casestudy/rasacode/users/1.webp',
-    '/assets/images/casestudy/rasacode/users/2.webp',
-    '/assets/images/casestudy/rasacode/users/3.webp',
-    '/assets/images/casestudy/rasacode/users/4.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/users/1.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/users/2.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/users/3.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/users/4.webp',
   ];
 
   const salesImages = [
-    '/assets/images/casestudy/rasacode/sales/1.webp',
-    '/assets/images/casestudy/rasacode/sales/2.webp',
-    '/assets/images/casestudy/rasacode/sales/3.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/sales/1.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/sales/2.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/sales/3.webp',
   ];
 
   const lightImages = [
-    '/assets/images/casestudy/rasacode/kiosk/light/1.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/2.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/3.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/4.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/5.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/6.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/7.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/8.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/9.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/10.webp',
-    '/assets/images/casestudy/rasacode/kiosk/light/11.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/1.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/2.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/3.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/4.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/5.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/6.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/7.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/8.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/9.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/10.webp',
+    'https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/kiosk/light/11.webp',
 
     
   ];
@@ -119,7 +119,7 @@ export function RasaCodeCaseStudy({ onBack }: RasaCodeCaseStudyProps) {
         <div className="relative h-[500px] flex items-center justify-center p-12 pt-24">
           <div className="relative max-w-2xl w-full">
             <ImageWithFallback
-              src="../../assets/images/casestudy/rasacode/rasacode_header.webp"
+              src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/rasacode/rasacode_header.webp"
               alt="سامانه مدیریتی کیوسک"
               className="w-full h-auto rounded-2xl "
             />

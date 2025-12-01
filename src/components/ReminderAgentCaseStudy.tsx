@@ -50,7 +50,7 @@ export function ReminderAgentCaseStudy({
                 <div className="relative h-[500px] flex items-center justify-center p-12 pt-24">
                     <div className="relative max-w-2xl w-[90%] mt-8">
                         <ImageWithFallback
-                            src="../../assets/images/casestudy/reminderagent/agent-header.png"
+                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/reminderagent/agent-header.png"
                             alt="چت‌بات هوش مصنوعی"
                             className="w-full h-auto rounded-2xl "
                         />
@@ -612,7 +612,7 @@ export function ReminderAgentCaseStudy({
                         {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((num) => (
                             <div key={num} className="overflow-hidden">
                                 <ImageWithFallback
-                                    src={`/assets/images/casestudy/reminderagent/${num}.png`}
+                                    src={`https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/reminderagent/${num}.png`}
                                     alt={`تصویر ${num}`}
                                     className="w-full h-auto object-contain"
                                 />

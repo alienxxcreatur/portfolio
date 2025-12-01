@@ -67,7 +67,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
             tags: ["app", "elearning", "dashboard"],
             gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
             accentColor: "bg-[#1F1BF5]/30",
-            image: "/assets/images/ibcentra.png",
+            image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/ibcentra.png",
         },
         {
             id: "9",
@@ -78,7 +78,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
             tags: ["app", "lendtech"],
             gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
             accentColor: "border-[#1F1BF5]/30",
-            image: "/assets/images/barpardaz.png",
+            image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/barpardaz.png",
         },
         {
             id: "7",
@@ -89,7 +89,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
             tags: ["webapp", "projectmanagement"],
             gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
             accentColor: "border-[#1F1BF5]/30",
-            image: "/assets/images/fiotrix.png",
+            image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/fiotrix.png",
         },
         {
             id: "10",
@@ -100,7 +100,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
             tags: ["ai", "chatbot", "automation"],
             gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
             accentColor: "border-[#1F1BF5]/30",
-            image: "/assets/images/reminderagent.png",
+            image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/reminderagent.png",
         },
         {
             id: "1",
@@ -111,7 +111,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
             tags: ["app", "cryptocurrency"],
             gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
             accentColor: "border-[#1F1BF5]/30",
-            image: "/assets/images/wallet.png",
+            image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/wallet.png",
         },
         {
             id: "11",
@@ -122,7 +122,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
             tags: ["webapp", "payment", "management"],
             gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
             accentColor: "bg-[#1F1BF5]/30",
-            image: "/assets/images/rasacode.png",
+            image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/rasacode.png",
         },
         {
             id: "4",
@@ -133,7 +133,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
             tags: ["ai", "business", "chatbot"],
             gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
             accentColor: "border-[#1F1BF5]/30",
-            image: "/assets/images/ceoassist.png",
+            image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/ceoassist.png",
         },
         {
             id: "12",
@@ -144,7 +144,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
             tags: ["desktop", "medical", "3D visualization"],
             gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
             accentColor: "bg-[#1F1BF5]/30",
-            image: "/assets/images/visera.png",
+            image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/visera.png",
         },
     ];
 
@@ -158,16 +158,16 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
     const [currentImageIndex, setCurrentImageIndex] = useState<number>(-1);
 
     const landingImages = [
-        "/assets/images/casestudy/fiotrix/landing/landing.webp",
-        "/assets/images/casestudy/fiotrix/landing/About us.webp",
-        "/assets/images/casestudy/fiotrix/landing/blogs.webp",
-        "/assets/images/casestudy/fiotrix/landing/blogs-2.webp",
-        "/assets/images/casestudy/fiotrix/landing/Desktop - 12.webp",
-        "/assets/images/casestudy/fiotrix/landing/landing-1.webp",
-        "/assets/images/casestudy/fiotrix/landing/About us-1.webp",
-        "/assets/images/casestudy/fiotrix/landing/blogs-1.webp",
-        "/assets/images/casestudy/fiotrix/landing/blogs-3.webp",
-        "/assets/images/casestudy/fiotrix/landing/login-light.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/landing.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/About us.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/blogs.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/blogs-2.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/Desktop - 12.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/landing-1.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/About us-1.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/blogs-1.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/blogs-3.webp",
+        "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/landing/login-light.webp",
     ];
 
     // Handle image click to open modal and set the current image
@@ -244,7 +244,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
                 <div className="relative h-[500px] flex items-center justify-center p-12 pt-24">
                     <div className="relative max-w-4xl w-full">
                         <ImageWithFallback
-                            src="../../assets/images/casestudy/fiotrix/fiotrix_header.webp"
+                            src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/fiotrix_header.webp"
                             alt="فیوتریکس"
                             className="w-full h-auto rounded-2xl "
                         />
@@ -880,7 +880,7 @@ export function FiotrixCaseStudy({ onBack }: FiotrixCaseStudyProps) {
                         {[1, 2, 3, 4, 5, 6, 7].map((num) => (
                             <div key={num} className="overflow-hidden">
                                 <ImageWithFallback
-                                    src={`/assets/images/casestudy/fiotrix/${num}.png`}
+                                    src={`https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/fiotrix/${num}.png`}
                                     alt={`تصویر ${num}`}
                                     className="w-full h-auto object-contain"
                                 />

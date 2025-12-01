@@ -16,7 +16,7 @@ const projects = [
         tags: ["app", "elearning", "dashboard"],
         gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
         accentColor: "bg-[#1F1BF5]/30",
-        image: "/assets/images/ibcentra.png",
+        image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/ibcentra.png",
     },
     {
         id: "9",
@@ -28,7 +28,7 @@ const projects = [
         tags: ["app", "lendtech"],
         gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
         accentColor: "border-[#1F1BF5]/30",
-        image: "/assets/images/barpardaz.png",
+        image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/barpardaz.png",
     },
     {
         id: "7",
@@ -40,7 +40,7 @@ const projects = [
         tags: ["webapp", "projectmanagement"],
         gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
         accentColor: "border-[#1F1BF5]/30",
-        image: "/assets/images/fiotrix.png",
+        image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/fiotrix.png",
     },
     {
         id: "10",
@@ -52,7 +52,7 @@ const projects = [
         tags: ["ai", "chatbot", "automation"],
         gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
         accentColor: "border-[#1F1BF5]/30",
-        image: "/assets/images/reminderagent.png",
+        image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/reminderagent.png",
     },
     {
         id: "1",
@@ -64,7 +64,7 @@ const projects = [
         tags: ["app", "cryptocurrency"],
         gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
         accentColor: "border-[#1F1BF5]/30",
-        image: "/assets/images/wallet.png",
+        image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/wallet.png",
     },
     {
         id: "11",
@@ -76,7 +76,7 @@ const projects = [
         tags: ["webapp", "payment", "management"],
         gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
         accentColor: "bg-[#1F1BF5]/30",
-        image: "/assets/images/rasacode.png",
+        image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/rasacode.png",
     },
     {
         id: "4",
@@ -88,7 +88,7 @@ const projects = [
         tags: ["ai", "business", "chatbot"],
         gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
         accentColor: "border-[#1F1BF5]/30",
-        image: "/assets/images/ceoassist.png",
+        image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/ceoassist.png",
     },
     {
         id: "12",
@@ -100,7 +100,7 @@ const projects = [
         tags: ["desktop", "medical", "3D visualization"],
         gradient: "from-[#1F1BF5] to-[#1F1BF5]/80",
         accentColor: "bg-[#1F1BF5]/30",
-        image: "/assets/images/visera.png",
+        image: "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/visera.png",
     },
 ];
 
