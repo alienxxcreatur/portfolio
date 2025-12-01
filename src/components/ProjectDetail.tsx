@@ -178,7 +178,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                     >
                         <div className="flex items-center gap-4 mb-6">
                             <div className="w-16 h-16 bg-[#1F1BF5]/10 rounded-2xl flex items-center justify-center">
-                                <Lightbulb className="w-8 h-8 text-[#1F1BF5]" />
+                                <span className="text-2xl">💡</span>
                             </div>
                             <h2 className="text-4xl">Objectives & Goals</h2>
                         </div>
@@ -250,8 +250,8 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                         className="mb-16"
                     >
                         <div className="flex items-center gap-4 mb-6">
-                            <div className="w-16 h-16 bg-red-500/10 rounded-2xl flex items-center justify-center">
-                                <Zap className="w-8 h-8 text-red-500" />
+                            <div className="w-16 h-16 bg-[#1F1BF5]/10 rounded-2xl flex items-center justify-center">
+                                <span className="text-2xl">⚡</span>
                             </div>
                             <h2 className="text-4xl">Business Challenges</h2>
                         </div>
@@ -515,30 +515,28 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                         </div>
                     </motion.section>
 
-                    {/* Users Review */}
                     {/* User Journey Section */}
+
                     <motion.section
                         initial={{ y: 20, opacity: 0 }}
                         animate={{ y: 0, opacity: 1 }}
-                        transition={{ delay: 1 }}
+                        transition={{ delay: 1.02 }}
                         className="mb-16"
                     >
                         <div className="flex items-center gap-4 mb-6">
                             <div className="w-16 h-16 bg-[#1F1BF5]/10 rounded-2xl flex items-center justify-center">
-                                <Layout className="w-8 h-8 text-[#1F1BF5]" />
+                                <span className="text-2xl">👤</span>
                             </div>
-                            <h2 className="text-4xl">User Journey</h2>
+                            <h2 className="text-4xl">User Jourrney</h2>
                         </div>
-                        <div className="w-full mb-8">
-                            <object
-                                data="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /user-journey.webp"
-                                type="image/svg+xml"
-                                className="w-full h-auto rounded-2xl"
-                                aria-label="User Journey"
+                        <div className="w-full">
+                            <ImageWithFallback
+                                src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /user-journey.webp"
+                                alt="Users Review"
+                                className="rounded-2xl w-full h-auto"
                             />
                         </div>
                     </motion.section>
-
                     {/* Users Review Section */}
                     <motion.section
                         initial={{ y: 20, opacity: 0 }}
@@ -548,7 +546,7 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                     >
                         <div className="flex items-center gap-4 mb-6">
                             <div className="w-16 h-16 bg-[#1F1BF5]/10 rounded-2xl flex items-center justify-center">
-                                <span className="text-2xl">👥</span>
+                                <span className="text-2xl">💬</span>
                             </div>
                             <h2 className="text-4xl">Users Review</h2>
                         </div>
@@ -611,12 +609,11 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                             ))}
                         </div>
                     </motion.section>
-
                     {/* Sketches */}
                     <motion.section
                         initial={{ y: 20, opacity: 0 }}
                         animate={{ y: 0, opacity: 1 }}
-                        transition={{ delay: 1.1 }}
+                        transition={{ delay: 1.02 }}
                         className="mb-16"
                     >
                         <div className="flex items-center gap-4 mb-6">
@@ -625,13 +622,11 @@ export function ProjectDetail({ projectId, onBack }: ProjectDetailProps) {
                             </div>
                             <h2 className="text-4xl">Sketches</h2>
                         </div>
-                        <div className="flex justify-center">
-                            <object
-                                data="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /sketch.webp"
-                                type="image/svg+xml"
-                                className="w-full h-[600px] rounded-2xl"
-                                aria-label="Sketches"
-                                style={{ minHeight: 400 }}
+                        <div className="w-full">
+                            <ImageWithFallback
+                                src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/wallet /sketch.webp"
+                                alt="Users Review"
+                                className="rounded-2xl w-full h-auto"
                             />
                         </div>
                     </motion.section>
