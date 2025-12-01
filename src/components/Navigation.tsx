@@ -36,8 +36,9 @@ export function Navigation({
     // Function to trigger PDF download
     const handleDownloadResume = () => {
         const link = document.createElement("a");
-        link.href = "../../assets/Sepide Zeinalzadegan.pdf"; // path to your PDF file in assets folder
-        link.download = "resume.pdf"; // the filename to save the file as
+        link.href =
+            "https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/Sepide Zeinalzadegan.pdf"; // path to your PDF file in assets folder
+        link.download = "Sepide Zeinalzadegan.pdf"; // the filename to save the file as
         link.click();
     };
 

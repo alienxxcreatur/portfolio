@@ -959,7 +959,7 @@ export function BarpardazCaseStudy({ onBack }: BarpardazCaseStudyProps) {
                                         </h3>
                                         <div className="bg-white rounded-3xl border-2 border-neutral-200 shadow-xl mb-4 overflow-hidden flex items-center justify-center">
                                             <ImageWithFallback
-                                                src="/assets/images/casestudy/barpardaz/landingnew.webp"
+                                                src="https://raw.githubusercontent.com/alienxxcreatur/portfolio/refs/heads/main/assets/images/casestudy/barpardaz/landingnew.webp"
                                                 alt="صفحه انتخاب اعتبار"
                                                 className="w-full h-auto object-contain"
                                             />

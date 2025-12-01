@@ -630,7 +630,7 @@ export function ReminderAgentCaseStudy({
                     </div>
                     <div className="bg-gradient-to-br from-[#1F1BF5]/5 to-[#1F1BF5]/10 rounded-3xl p-8 border-r-4 border-[#1F1BF5]">
                         <iframe
-                            src="https://embed.figma.com/proto/dDKOCYKiLXOlwQa1gJdLx3/Chatbot-Landingpage?page-id=230%3A3415&node-id=230-3989&viewport=-846%2C216%2C0.1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1773%3A10774&embed-host=share"
+                            src="https://embed.figma.com/proto/dDKOCYKiLXOlwQa1gJdLx3/Chatbot-Landingpage?page-id=230%3A3415&node-id=230-3989&viewport=-220%2C171%2C0.05&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=230%3A3989&embed-host=share"
                             width="100%" // عرض کامل
                             height="600" // ارتفاع مورد نظر
                             style={{ border: "none" }}
